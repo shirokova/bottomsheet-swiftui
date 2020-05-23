@@ -44,4 +44,4 @@ indicatorBackgroundColor: white
 
 ### Swift Package Manager
 
-Swiftui-BottomSheet is SwiftPM-compatible. To install, add this package to your `Package.swift` or your Xcode project.
+BottomSheet-SwiftUI is SwiftPM-compatible. To install, add this package to your `Package.swift` or your Xcode project.
